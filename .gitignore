@@ -1,0 +1,54 @@
+# Archivos generados por Sphinx
+_build/
+build/
+doctrees/
+*.doctree
+
+# Archivos temporales de Sphinx
+.sphinx/
+.sphinx-build/
+sphinx-autobuild/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+*.egg-info/
+
+# Jupyter / notebooks, si usas ejemplos interactivos
+.ipynb_checkpoints/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# LaTeX / PDF generado por Sphinx
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.xdv
+*.pdf
+
+# HTML generado
+html/
